@@ -1,0 +1,4 @@
+go tool pprof -http=:8000 http://localhost:6060/debug/pprof/profile  
+localhost:8000/ui/  以web方式查看
+
+go语言UDP网络编程之发送DNS请求
